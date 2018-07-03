@@ -9,12 +9,12 @@ html {
 
 .prof-box {
 	width: 400px;
-	height: 400px;
+	height: 480px;
 	background: rgba(0,0,0,0.4);
 	padding: 40px;
 	color: white;
 	margin: 0 auto;
-	margin-top: 140px;
+	margin-top: 100px;
 	text-align: center;
 }
 
@@ -36,4 +36,18 @@ p
 	font-weight: 200;
     font-size: 20;
     letter-spacing: 1;
+}
+
+.icons{
+	font-size: 40px;
+}
+
+.icons a{
+	color: white;
+}
+
+.line-break{
+	width: 350px;
+	border-top: 1px solid white;
+	margin: 0 auto;
 }
